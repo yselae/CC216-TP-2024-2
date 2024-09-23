@@ -30,3 +30,13 @@ El conjunto de datos **"Hotel Booking Demand"** ofrece información detallada so
 
 ## Conclusiones
 
+####Patrones y tendencias
+
+_Temporadas de alta y baja demanda:_ Las temporadas altas están entre septiembre y octubre. Durante ese periodo, en el City Hotel, se registró el mayor número de reservas. En el otro extremo, las temporadas bajas se dieron entre octubre y enero, presentando una caída notoria de las reservas.
+
+_Cancelaciones:_ El City Hotel experimentó más cancelaciones en mayo, debido posiblemente a un cambio en la oferta durante ese período.
+
+_Estacionamiento:_ La cantidad de clientes que solicitó estacionamiento representan una mínoria, indicando que este factor no es prioritario para la mayoría de los huéspedes.
+
+_Preferencia de los clientes:_ Los datos mostraron una clara preferencia por el City Hotel, que recibió aproximadamente el doble de reservas que el Resort Hotel. Además, la demanda del City Hotel ha tenido un crecimiento sostenido, mientras que la del Resort Hotel ha sido más fluctuante.
+
