@@ -30,7 +30,7 @@ El conjunto de datos **"Hotel Booking Demand"** ofrece información detallada so
 
 ## Conclusiones
 
-####Patrones y tendencias
+#### Patrones y tendencias
 
 _Temporadas de alta y baja demanda:_ Las temporadas altas están entre septiembre y octubre. Durante ese periodo, en el City Hotel, se registró el mayor número de reservas. En el otro extremo, las temporadas bajas se dieron entre octubre y enero, presentando una caída notoria de las reservas.
 
